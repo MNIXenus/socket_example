@@ -1,0 +1,1 @@
+runas /user:администратор "python %~dp0/server.py"
